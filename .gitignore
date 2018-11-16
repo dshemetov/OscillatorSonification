@@ -103,5 +103,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# Jupyter Notebooks
+# My Stuff
 .ipynb_checkpoints/
+/data
+.DS_Store
